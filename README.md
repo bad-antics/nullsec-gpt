@@ -103,10 +103,8 @@ nullsec-gpt deps package.json
 ```bash
 $ nullsec-gpt chat
 
-╔═══════════════════════════════════════╗
 ║       NullSec GPT Security Chat       ║
 ║       Type 'help' for commands        ║
-╚═══════════════════════════════════════╝
 
 You: What is CVE-2021-44228?
 
